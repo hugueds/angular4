@@ -6,11 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
-  arrayzao = [
-    {a : 123},
-    {b : 456},
-    {c : 789}
-  ];
-  keys = Object.keys(this.arrayzao);
+  
 }

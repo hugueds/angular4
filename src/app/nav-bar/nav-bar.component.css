@@ -1,0 +1,9 @@
+button{
+    background: white;
+    color: red;
+}
+
+* {
+    background: blue;
+    padding: 1%;
+}
